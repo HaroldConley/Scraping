@@ -1,6 +1,4 @@
 # Scrapping
-Python - Various scrapping codes.
+Python
 
-** Scrap_1.py **
-It's my first code scrapping a simple web with a list of countries and their capital, population and area.
-I extracted this information and create a DataFrame with the data.
+Various scrapping codes, starting with simple websites and, hopefully, ending with complex ones.
