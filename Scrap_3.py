@@ -35,7 +35,7 @@ for p in range(1,21): #For pages 1 to 20
             while element[0] != ':':
                 element = element.lstrip(str(element[0])) #To clean the info before the ':'
             element = element.lstrip(str(element[0])) #To clear the ':'
-            element = element.lstrip(str(element[0])) #To clear the white space before the info.
+            element = element.lstrip(str(element[0])) #To clear the white space before the info
             df_row_aux.append(element)
 
 
